@@ -19,4 +19,4 @@ class Customer(Person):
     def print_person(self):
         person.print_person(self)
         print('Customer Number:', self.__customer_number)
-        if self.f
+        if self.get
